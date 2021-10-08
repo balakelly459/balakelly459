@@ -1,4 +1,10 @@
-<h1> Hi! My name is Kelly :) </h1>
+<h1 align="center"> Hi! My name is Kelly :) </h1>
+
+<div align="center"><br><hr>
+  <a href="https://github.com/balakelly459">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=balakelly459&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balakelly459&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <div>
  
